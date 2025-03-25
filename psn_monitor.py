@@ -25,7 +25,7 @@ VERSION = 1.4
 # In another tab, go to: https://ca.account.sony.com/api/v1/ssocookie
 # Copy the value of npsso code below (or use -n parameter)
 # The refresh token that is generated from npsso should be valid for 2 months
-PSN_NPSSO = "your_psn_npsso_code"
+PSN_NPSSO = "PVCyKxvKEILHQtWxEuX6RJrRWZjH77i8686LQY21RM2PXUkftq8yEmyPZRTooqiE"
 
 # SMTP settings for sending email notifications, you can leave it as it is below and no notifications will be sent
 SMTP_HOST = "your_smtp_server_ssl"
